@@ -69,7 +69,7 @@ Feel free to fork and contribute to this project! Pull requests are welcome. �
 
 
 ---
-🚀 **Developed by [Nagaraj M Naik]** 👨‍💻
+
 **Output sample** 
 ![image](https://github.com/user-attachments/assets/f6a55e81-4b1e-4427-aff3-c384d4ded5d6)
 ![image](https://github.com/user-attachments/assets/6bf0c646-9d23-4139-a505-e3c85297a1d1)
