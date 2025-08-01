@@ -1,0 +1,9 @@
+# Ignore dataset folders
+/data/
+/dataset/
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints
